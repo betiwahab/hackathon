@@ -1,0 +1,133 @@
+Image ID;Image Quality;Lesion Presence;Breast Composition;Lesion Classification;BIRADS_Score;Quality;Shape;Margin;Orientation;Echo pattern;Posterior Features
+AB019_lt_axilla.png;Average;Yes;Homogeneous Fat;Breast Mass;BIRADS 2;Average;Round;Circumscribed;Parallel;Anechoic;Enhancement
+AB019_lt_breast.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB019_rt_breast1.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB027_lt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB038_lt_breast.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB038_rt_breast.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB050_lt_breast1.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;Enhancement
+AB050_rt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB052_rt_breast.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB056_rt_breast.png;Poor;No;Homogeneous Fibroglandular;;BIRADS 1;Poor;;;;;
+AB090_lt_breast3.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 3;Average;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB244_rt_axilla.png;Poor;No;Heterogeneous;;BIRADS 1;Poor;;;;;
+AB244_rt_breast.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 3;Good;Irregular;Circumscribed;Not parallel;Anechoic;Enhancement
+AB352_lt_axilla.png;Average;No;Homogeneous Fat;;BIRADS 1;Average;;;;;
+AB357_lt_breast2.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Anechoic;Enhancement
+AB388_lt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB388_rt_axilla.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB388_rt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB390_rt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB393_rt_axilla.png;Average;No;Homogeneous Fat;;BIRADS 1;Average;;;;;
+AB419_lt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB419_lt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB419_rt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB419_rt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB431_lt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB431_lt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB431_rt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB431_rt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB502_rt_breast1.png;Good;Yes;Homogeneous Fibroglandular;Special Cases;BIRADS 2;Good;;;;;
+AB502_rt_breast2.png;Good;Yes;Homogeneous Fibroglandular;Special Cases;BIRADS 2;Good;;;;;
+AB502_rt_breast3.png;Good;Yes;Homogeneous Fibroglandular;Special Cases;BIRADS 2;Good;;;;;
+AB508_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB508_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB508_rt_breast3.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB508_rt_breast4.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB508_rt_breast5.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB509_rt_breast6.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB517_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB535_lt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB535_rt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB546_rt_breast3.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB555_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB555_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB556_lt_breast2.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB556_lt_breast4.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB569_lt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB569_rt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB572_lt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB023_lt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB023_lt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB023_rt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB023_rt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB033_rt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB040_lt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB040_lt_breast.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB040_rt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB160_rt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB184_lt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB184_lt_breast2.png;Average;Yes;Heterogeneous;Breast Mass;BIRADS 2;Average;Round;Circumscribed;Not parallel;Complex cystic/solid hypoecholic;No features
+AB184_rt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB185_rt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB185_rt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB211_lt_breast.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Anechoic;Enhancement
+AB211_rt_breast1.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Round;Circumscribed;Parallel;Anechoic;Enhancement
+AB211_rt_breast2.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Round;Circumscribed;Parallel;Anechoic;Enhancement
+AB345_lt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB345_lt_breast1.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB345_rt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB374_rt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB414_lt_axilla.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB414_rt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB416_rt_axilla.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB425_lt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB501_lt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB501_rt_axilla2.png;Good;Yes;Heterogeneous;Special Cases;BIRADS 2;Good;;;;;
+AB503_lt_breast1.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB503_lt_breast2.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB516_lt_breast1.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB516_lt_breast2.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;Enhancement
+AB516_lt_breast3.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;Enhancement
+AB516_lt_breast4.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB516_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB516_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB516_rt_breast3.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB518_lt_axilla1.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB518_lt_axilla2.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB518_lt_breast2.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB518_rt_axilla1.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB518_rt_axilla3.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB521_lt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB521_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB532_lt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB532_rt_breast1.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB532_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB537_lt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB537_lt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB537_rt_breast2.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB537_rt_breast3.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB539-rt_axilla2.png;Average;Yes;Heterogeneous;Special Cases;BIRADS 2;Average;;;;;
+AB545_rt_breast1.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB545_rt_breast2.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB001_lt_breast1.png;Average;Yes;Heterogeneous;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Anechoic;Enhancement
+AB001_lt_breast2.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Anechoic;Enhancement
+AB001_rt_breast2.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB014_lt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB014_lt_breast.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB017_rt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB018_lt_axilla1.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB018_rt_axilla.png;Average;No;Heterogeneous;;BIRADS 1;Average;;;;;
+AB401_rt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB411_lt_breast.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB024_lt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB024_lt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB037_lt_axilla.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB037_rt_breast.png;Good;No;Heterogeneous;;BIRADS 1;Good;;;;;
+AB057_rt_breast4.png;Good;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Good;Oval;Circumscribed;Parallel;Isoechoic;No features
+AB089_lt_axilla.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB089_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB187_lt_breast.png;Average;Yes;Homogeneous Fibroglandular;Breast Mass;BIRADS 2;Average;Oval;Circumscribed;Parallel;Complex cystic/solid hypoecholic;No features
+AB505_rt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB519_lt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB519_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB519_rt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB539_lt_breast.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB564_lt_breast1.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB564_rt_breast3.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB573_lt_axilla.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB573_lt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB573_lt_breast2.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB573_rt_axilla.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
+AB573_rt_breast1.png;Good;No;Homogeneous Fibroglandular;;BIRADS 1;Good;;;;;
+AB573_rt_breast2.png;Average;No;Homogeneous Fibroglandular;;BIRADS 1;Average;;;;;
