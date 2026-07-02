@@ -37,13 +37,16 @@ from tqdm import tqdm
 # ── Imports locaux ────────────────────────────────────────────────────────────
 from dataset import MedicalDataset
 from model_scratch import ScratchCNN, ScratchLesionReferralSystem
+from model_advanced import EfficientNetLesionClassifier, LesionReferralSystem
 
+
+"""
 try:
     from model_advanced import EfficientNetLesionClassifier, LesionReferralSystem
     PRETRAINED_AVAILABLE = True
 except ImportError:
     PRETRAINED_AVAILABLE = False
-    print("[WARN] model_advanced.py introuvable — mode 'pretrained' indisponible.")
+    print("[WARN] model_advanced.py introuvable — mode 'pretrained' indisponible.")"""
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -482,6 +485,8 @@ def main():
     print(f"  Mode       : {args.mode}")
     print(f"  Epochs     : {args.epochs} | Folds : {args.folds} | "
           f"Batch : {args.batch_size} | LR : {args.lr}")
+    
+    PRETRAINED_AVAILABLE=True if args.mode=="pretrained" else False
 
     # ── Dataset ──────────────────────────────────────────────────────────────
     print("\n  Chargement du dataset...")
